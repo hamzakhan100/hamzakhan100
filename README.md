@@ -14,10 +14,6 @@ Multitalented MERN Stack developer with experience in 2 software industries. Dem
 
 <p align="left">
   &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a>
-  &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a>
@@ -25,10 +21,6 @@ Multitalented MERN Stack developer with experience in 2 software industries. Dem
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
@@ -123,10 +115,34 @@ Multitalented MERN Stack developer with experience in 2 software industries. Dem
 
 <br/>
 
+## 📊 Github Stats (Expand to View)
 
-- 📫 How to reach me? Well here is my email se.hamzakhan@gmail.com
+<details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Basit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=basitk41&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basitk41&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mubashir-dev" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/basitk41"><img alt="Basit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=basitk41&custom_title=Basit%20Ali's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
+
+- 📫 How to reach me? Well here is my email basitk41@gmail.com
 
 <!---
-hamzakhan100/hamzakhan100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+basitk41/basitk41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
