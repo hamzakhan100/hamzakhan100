@@ -15,18 +15,14 @@ Multitalented MERN Stack developer with experience in 2 software industries. Dem
 <p align="left">
  
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a>
-  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
+&emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" /> </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
+
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
@@ -34,6 +30,9 @@ Multitalented MERN Stack developer with experience in 2 software industries. Dem
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+
+
+
 </p>
 
 ### 👉 Frontend Development
@@ -59,6 +58,21 @@ Multitalented MERN Stack developer with experience in 2 software industries. Dem
   <a href="https://ant.design/" target="_blank">
     <img alt="Ant" src="https://img.shields.io/badge/Ant%20Design-%23FF9A00.svg?style=flat&logo=ant-design&logoColor=pink"/>
   </a>
+ &emsp;
+   <a href="https://www.w3schools.com/css/" target="_blank">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" /> </a> 
+
+&emsp;
+  <a href="https://www.w3.org/html/" target="_blank" > 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
+&emsp;
+  <a href="https://redux.js.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"/>
+
+&emsp;
+  a href="https://sass-lang.com" target="_blank" >
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" /> </a>
+
 </p>
 
 ### 👉 Databases & Cloud Hosting
