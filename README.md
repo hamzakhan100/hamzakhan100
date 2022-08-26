@@ -123,34 +123,10 @@ Multitalented MERN Stack developer with experience in 2 software industries. Dem
 
 <br/>
 
-## 📊 Github Stats (Expand to View)
 
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Basit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=basitk41&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basitk41&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mubashir-dev" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/basitk41"><img alt="Basit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=basitk41&custom_title=Basit%20Ali's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
-
-- 📫 How to reach me? Well here is my email basitk41@gmail.com
+- 📫 How to reach me? Well here is my email se.hamzakhan@gmail.com
 
 <!---
-basitk41/basitk41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hamzakhan100/hamzakhan100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
